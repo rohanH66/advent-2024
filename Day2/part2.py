@@ -14,7 +14,7 @@ def reg_check_nums(nums):
     return True
 
 def check_nums(anums):
-    increasing, nums = False, list()
+    nums = list()
 
     for num in anums: nums.append(int(num))
     
