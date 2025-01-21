@@ -13,6 +13,8 @@ def reg_check_nums(nums):
         else: return False    
     return True
 
+
+
 def check_nums(anums):
     nums = list()
 
